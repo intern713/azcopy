@@ -13,10 +13,10 @@ It is a simple explanation for people who use azcopy for the first time. Use **W
 
 ![azcopy file](https://github.com/ylian713/azcopy/blob/master/screenshot1/help.png)
 
-For example, here's the output of the command **.\azcopy copy**
+For example, here's the output of the command **.\azcopy copy**. This command helps you to copy VHD to your own container.
 ![azcopy file](https://github.com/intern713/azcopy/blob/master/screenshot1/copy.png)
 
 > [!NOTE] 
-> You may be unable to use the cammand <u>azcopy</u> directly and the output is shown below in the screenshot. In this condition, you can use <u>.\azcopy</u> after getting into absolute path.
+> You may be unable to use the cammand **azcopy** directly and the output is shown below in the screenshot. In this condition, you can use **.\azcopy** after getting into absolute path.
 
 >![azcopy file](https://github.com/ylian713/azcopy/blob/master/screenshot1/note.png)
