@@ -14,6 +14,6 @@ It is a simple explanation for people who use azcopy for the first time. Use **W
 ![azcopy file](https://github.com/ylian713/azcopy/blob/master/screenshot1/help.png)
 
 > [!NOTE] 
-> You may be unable to use the cammand <u>azcopy</u> directly and the output is shown below in the screenshot. In this condition, you can use <u>.\azcopy</u> after getting into Absolute path.
+> You may be unable to use the cammand <u>azcopy</u> directly and the output is shown below in the screenshot. In this condition, you can use <u>.\azcopy</u> after getting into absolute path.
 
 >![azcopy file](https://github.com/ylian713/azcopy/blob/master/screenshot1/note.png)
