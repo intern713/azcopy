@@ -13,7 +13,8 @@ It is a simple explanation for people who use azcopy for the first time. Use **W
 
 ![azcopy file](https://github.com/ylian713/azcopy/blob/master/screenshot1/help.png)
 
-For example, here's the output of the command **.\azcopy copy**. This command helps you to copy VHD to your own container.
+For example, here's the output of the command **.\azcopy copy**. This command helps you to copy VHD to your local directory, then you will find the VHD in your file folder. In this example, the VHD will appear in E disk.
+
 ![azcopy file](https://github.com/intern713/azcopy/blob/master/screenshot1/copy.png)
 
 > [!NOTE] 
